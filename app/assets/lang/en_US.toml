@@ -50,7 +50,7 @@ accountSelectCancel = "Abandonner"
 
 [ejs.settings]
 navHeaderText = "test genre ici"
-navAccount = "Compte"
+navAccount = "test2"
 navMinecraft = "Minecraft"
 navMods = "Mods"
 navJava = "Java"
