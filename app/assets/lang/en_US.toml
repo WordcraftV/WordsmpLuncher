@@ -49,7 +49,7 @@ accountSelectConfirm = "Sélectionné"
 accountSelectCancel = "Abandonner"
 
 [ejs.settings]
-navHeaderText = "Paramètre"
+navHeaderText = "test"
 navAccount = "Compte"
 navMinecraft = "Minecraft"
 navMods = "Mods"
