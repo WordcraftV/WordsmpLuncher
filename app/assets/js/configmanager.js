@@ -49,7 +49,7 @@ exports.getAbsoluteMinRAM = function(ram){
     } else {
         // Legacy behavior
         const mem = os.totalmem()
-        return mem >= (6*1073741824) ? 3 : 2
+        return mem >= (6*1073741824) ? 2 : 2
     }
 }
 
