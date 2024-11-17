@@ -41,13 +41,6 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases)
 
-#### Latest Release
-
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
-
-#### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
-
 **Supported Platforms**
 
 If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
@@ -58,27 +51,6 @@ If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/re
 | macOS x64 | `Helios-Launcher-setup-VERSION-x64.dmg` |
 | macOS arm64 | `Helios-Launcher-setup-VERSION-arm64.dmg` |
 | Linux x64 | `Helios-Launcher-setup-VERSION.AppImage` |
-
-## Console
-
-To open the console, use the following keybind.
-
-```console
-ctrl + shift + i
-```
-
-Ensure that you have the console tab selected. Do not paste anything into the console unless you are 100% sure of what it will do. Pasting the wrong thing can expose sensitive information.
-
-#### Export Output to a File
-
-If you want to export the console output, simply right click anywhere on the console and click **Save as..**
-
-![console example](https://i.imgur.com/T5e73jP.png)
-
-
-## Development
-
-This section details the setup of a basic developmentment environment.
 
 ### Getting Started
 
@@ -192,8 +164,6 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 * [v2 Rewrite Branch (Inactive)][v2branch]
 
 The best way to contact the developers is on Discord.
-
-[![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
 
 ---
 
