@@ -1,4 +1,4 @@
-appId: 'helioslauncher'
+appId: 'wordsmplauncher'
 productName: 'Wordsmp Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
